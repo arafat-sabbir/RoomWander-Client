@@ -29,7 +29,7 @@ const RoomDetails = () => {
       <div className="">
         <div className="flex flex-col gap-6">{"header"}</div>
           <div> room info </div>
-          Calender
+          Calender Will Be Added
       </div>
     </Container>
   );
